@@ -20,4 +20,4 @@ Please fork this repository and then issue Pull requests for review.
 
 ### Copyright
 
-This is copyright protected
+This is copyright protected. All rights reserved.
